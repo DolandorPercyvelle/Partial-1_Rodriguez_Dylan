@@ -1,0 +1,44 @@
+<mxfile host="65bd71144e">
+    <diagram id="Rka7JeN9WJ-bKRDFbTvD" name="Page-1">
+        <mxGraphModel dx="740" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="RW-E78r148kIQryC8bAs-3" edge="1" parent="1" source="RW-E78r148kIQryC8bAs-1" style="edgeStyle=none;html=1;" target="RW-E78r148kIQryC8bAs-2" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="240"/>
+                            <mxPoint x="280" y="100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="RW-E78r148kIQryC8bAs-5" edge="1" parent="1" source="RW-E78r148kIQryC8bAs-1" style="edgeStyle=none;html=1;" target="RW-E78r148kIQryC8bAs-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="RW-E78r148kIQryC8bAs-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="FIRM" vertex="1">
+                    <mxGeometry height="280" width="140" x="90" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="RW-E78r148kIQryC8bAs-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Registering the business" vertex="1">
+                    <mxGeometry height="80" width="235" x="385" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="RW-E78r148kIQryC8bAs-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Creating publicity for the business" vertex="1">
+                    <mxGeometry height="80" width="235" x="385" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="RW-E78r148kIQryC8bAs-8" edge="1" parent="1" source="RW-E78r148kIQryC8bAs-6" style="edgeStyle=none;html=1;" target="RW-E78r148kIQryC8bAs-7" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="260" y="610"/>
+                            <mxPoint x="260" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="RW-E78r148kIQryC8bAs-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="CLIENT" vertex="1">
+                    <mxGeometry height="300" width="155" x="82.5" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="RW-E78r148kIQryC8bAs-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Understanding the business aplication" vertex="1">
+                    <mxGeometry height="80" width="260" x="300" y="430" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

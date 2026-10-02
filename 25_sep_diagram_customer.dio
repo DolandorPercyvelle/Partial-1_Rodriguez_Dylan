@@ -1,0 +1,57 @@
+<mxfile host="65bd71144e">
+    <diagram id="qZOB8Gn8cqgous2r8qCt" name="Page-1">
+        <mxGraphModel dx="521" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-3" edge="1" parent="1" source="9cySnC_0jKBT2dJoLrss-1" style="edgeStyle=none;html=1;" target="9cySnC_0jKBT2dJoLrss-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="How to atract customers&amp;nbsp;" vertex="1">
+                    <mxGeometry height="80" width="120" x="360" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-5" edge="1" parent="1" source="9cySnC_0jKBT2dJoLrss-2" style="edgeStyle=none;html=1;" target="9cySnC_0jKBT2dJoLrss-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-2" parent="1" style="whiteSpace=wrap;html=1;" value="Thinking of an idea" vertex="1">
+                    <mxGeometry height="60" width="120" x="360" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-7" edge="1" parent="1" source="9cySnC_0jKBT2dJoLrss-4" style="edgeStyle=none;html=1;" target="9cySnC_0jKBT2dJoLrss-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-4" parent="1" style="whiteSpace=wrap;html=1;" value="Making it atractive and simple so anyone can understand the point of it&amp;nbsp;" vertex="1">
+                    <mxGeometry height="60" width="120" x="360" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-9" edge="1" parent="1" source="9cySnC_0jKBT2dJoLrss-6" style="edgeStyle=none;html=1;" target="9cySnC_0jKBT2dJoLrss-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-10" edge="1" parent="1" source="9cySnC_0jKBT2dJoLrss-6" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9cySnC_0jKBT2dJoLrss-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="320" y="515"/>
+                            <mxPoint x="320" y="360"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Is it atractive to the customers?" vertex="1">
+                    <mxGeometry height="110" width="110" x="365" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-12" edge="1" parent="1" source="9cySnC_0jKBT2dJoLrss-8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9cySnC_0jKBT2dJoLrss-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-8" parent="1" style="whiteSpace=wrap;html=1;" value="Present how is it going to be implemented in the future or how it can affect their life if they invest" vertex="1">
+                    <mxGeometry height="85" width="120" x="360" y="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Sell the final product" vertex="1">
+                    <mxGeometry height="80" width="120" x="360" y="815" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+                    <mxGeometry height="30" width="60" x="270" y="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="9cySnC_0jKBT2dJoLrss-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+                    <mxGeometry height="30" width="60" x="370" y="590" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

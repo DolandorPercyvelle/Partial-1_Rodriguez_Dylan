@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="WgDh-QLGoC1LEPgBf6Ky" name="Page-1">
+        <mxGraphModel dx="444" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="pucErl5dKx8jMGby_x1X-3" edge="1" parent="1" source="pucErl5dKx8jMGby_x1X-1" style="edgeStyle=none;html=1;" target="pucErl5dKx8jMGby_x1X-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-5" edge="1" parent="1" source="pucErl5dKx8jMGby_x1X-1" style="edgeStyle=none;html=1;" target="pucErl5dKx8jMGby_x1X-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-7" edge="1" parent="1" source="pucErl5dKx8jMGby_x1X-1" style="edgeStyle=none;html=1;" target="pucErl5dKx8jMGby_x1X-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-9" edge="1" parent="1" source="pucErl5dKx8jMGby_x1X-1" style="edgeStyle=none;html=1;" target="pucErl5dKx8jMGby_x1X-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="OWNER" vertex="1">
+                    <mxGeometry height="290" width="160" x="70" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Administrating the marketing team and marketplace&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="210" x="370" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Check on the likes and dislikes of the public&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="250" x="420" y="295" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Checking on how to make more proffit&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="210" x="370" y="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Checking user data and stadistics&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="250" x="25" y="790" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ADMINISTRATOR" vertex="1">
+                    <mxGeometry height="210" width="150" x="420" y="740" as="geometry"/>
+                </mxCell>
+                <mxCell id="pucErl5dKx8jMGby_x1X-12" edge="1" parent="1" source="pucErl5dKx8jMGby_x1X-11" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="225" y="880" as="sourcePoint"/>
+                        <mxPoint x="275" y="830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

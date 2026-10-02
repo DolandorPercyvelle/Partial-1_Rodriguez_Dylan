@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="vDYwCCpYgazi-gq2SmBY" name="Page-1">
+        <mxGraphModel dx="964" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-4" edge="1" parent="1" source="_dKdVeSfLoyXc5bgluLN-1" style="edgeStyle=none;html=1;" target="_dKdVeSfLoyXc5bgluLN-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-6" edge="1" parent="1" source="_dKdVeSfLoyXc5bgluLN-1" style="edgeStyle=none;html=1;" target="_dKdVeSfLoyXc5bgluLN-5" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-8" edge="1" parent="1" source="_dKdVeSfLoyXc5bgluLN-1" style="edgeStyle=none;html=1;" target="_dKdVeSfLoyXc5bgluLN-7" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="OWNER" vertex="1">
+                    <mxGeometry height="200" width="180" x="30" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Check on payment options" vertex="1">
+                    <mxGeometry height="80" width="330" x="380" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="making different types of payments" vertex="1">
+                    <mxGeometry height="80" width="280" x="490" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="checking payments" vertex="1">
+                    <mxGeometry height="80" width="330" x="380" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-13" edge="1" parent="1" source="_dKdVeSfLoyXc5bgluLN-11" style="edgeStyle=none;html=1;" target="_dKdVeSfLoyXc5bgluLN-12" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-15" edge="1" parent="1" source="_dKdVeSfLoyXc5bgluLN-11" style="edgeStyle=none;html=1;" target="_dKdVeSfLoyXc5bgluLN-14" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ADMINISTRATOR&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="200" width="180" x="455" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Registering and validating the payments" vertex="1">
+                    <mxGeometry height="80" width="280" x="150" y="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="_dKdVeSfLoyXc5bgluLN-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Checking payments" vertex="1">
+                    <mxGeometry height="80" width="330" x="380" y="260" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
